@@ -1,0 +1,8 @@
+'AuthUserFile' /home/clubgran/www/manager/.htpasswd
+'AuthGroupFile' /dev/null
+'AuthName' "Acces Restreint"
+'AuthType' Basic
+
+require valid-user
+
+
